@@ -33,7 +33,7 @@ class Vars
 		@s_name = "#{@c_current}-#{@t_current}sec.png"
 
 		@b_soft = "chrome"
-		@b_url = "https://www.yahoo.co.jp/"
+		@b_url = "https://www.goo.ne.jp/"
 
 	end
 	def reload
